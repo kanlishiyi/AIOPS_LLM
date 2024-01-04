@@ -1,3 +1,3 @@
 # AIOPS_LLM
-LLM papers about AIOps！
+LLM application papers about AIOps！
  
